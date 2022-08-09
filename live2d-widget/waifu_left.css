@@ -31,7 +31,7 @@
 	position: fixed;
 	transform: translateY(3px);
 	transition: transform .3s ease-in-out, bottom 3s ease-in-out;
-	z-index: 2147483647;
+	z-index: 5000;
 }
 
 #waifu:hover {
