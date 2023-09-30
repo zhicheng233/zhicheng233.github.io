@@ -81,16 +81,9 @@
             container: document.getElementById('dplayer-container'),
             live: true,
             video: {
-                url: 'http://zhicheng233.freeddns.org:7001/live/movie.flv',
+                url: 'https://zhicheng233.freeddns.org:7001/live/movie.flv',
                 type: 'flv', 
-                customType: {
-                    getVideo: (callback) => {
-                    // 使用 JSONP 获取数据 解决跨域问题
-                        jsonp('http://zhicheng233.freeddns.org:7001/live/movie.flv', (data) => {
-                            callback(data);
-                        });
-                    },
-                },
+               
             },
             
 
