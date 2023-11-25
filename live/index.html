@@ -25,7 +25,8 @@
 
         #dplayer-container {
             width: 75%; /* 播放器宽度 */
-            margin: 70px auto; /* 初始居中 */
+            height: calc(75% * 10 / 16); /* 16:10 aspect ratio */
+            margin: 30px auto; /* 初始居中 */
             background: rgba(0, 0, 0, 0.5); 
             border-radius: 10px;
         }
@@ -33,13 +34,13 @@
         #bar {
             width: 75%;
             height: 22px;
-            margin: 70px auto; /* 初始居中 */
+            margin: 0px auto; /* 初始居中 */
             background-color: rgba(0, 0, 0, 0.5);
             display: flex; /* 使用 flex 布局 */
             justify-content: center; /* 水平居中 */
             align-items: center; /* 垂直居中 */
             position: relative;
-            transform: translateY(-250%);
+            transform: translateY(-120%);
         }
 
         #bottom-bar {
@@ -67,8 +68,8 @@
         <a href="https://github.com/Bilibili/flv.js/" id="bottom-bar" style="margin-right: 5px; display: flex; align-items: center;">
             <img src="https://img.shields.io/github/v/release/Bilibili/flv.js?label=Flv.js&color=green"></img>
         </a>
-        <a href="https://github.com/gwuhaolin/livego" id="bottom-bar" style="margin-right: 5px; display: flex; align-items: center;">
-            <img src="https://img.shields.io/github/v/release/gwuhaolin/livego?label=LiveGo&color=yellow
+        <a href="https://github.com/q191201771/lal" id="bottom-bar" style="margin-right: 5px; display: flex; align-items: center;">
+            <img src="https://img.shields.io/github/v/release/q191201771/lal?label=Lal&color=yellow
             "></img>
         </a>
         
