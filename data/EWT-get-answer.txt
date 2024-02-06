@@ -1,6 +1,6 @@
 version=1.5;
 
-DL-Link=https://blog.zhicheng233.ml/data/DL/EWT选择题答案获取.exe;
+DL-Link=https://blog.zhicheng233.top/data/DL/EWT选择题答案获取.exe;
 
 aboutupdate=
 2022.8.24
