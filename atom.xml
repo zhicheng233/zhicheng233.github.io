@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-02-06T14:04:12.124Z</updated>
+  <updated>2024-02-07T12:15:27.250Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/post/24%E5%B9%B4%E9%80%9A%E8%BF%87Telnet%E8%8E%B7%E5%8F%96%E7%94%B5%E4%BF%A1%E5%A4%A9%E7%BF%BC%E7%BD%91%E5%85%B3%E8%B6%85%E7%AE%A1%E5%AF%86%E7%A0%81-HS8145C5.html"/>
     <id>http://example.com/post/24%E5%B9%B4%E9%80%9A%E8%BF%87Telnet%E8%8E%B7%E5%8F%96%E7%94%B5%E4%BF%A1%E5%A4%A9%E7%BF%BC%E7%BD%91%E5%85%B3%E8%B6%85%E7%AE%A1%E5%AF%86%E7%A0%81-HS8145C5.html</id>
     <published>2024-02-06T04:40:00.000Z</published>
-    <updated>2024-02-06T14:04:12.124Z</updated>
+    <updated>2024-02-07T12:15:27.250Z</updated>
     
     
       
@@ -35,15 +35,11 @@
     
     
     
-    <category term="破解" scheme="http://example.com/tags/%E7%A0%B4%E8%A7%A3/"/>
-    
     <category term="网络" scheme="http://example.com/tags/%E7%BD%91%E7%BB%9C/"/>
     
     <category term="硬件" scheme="http://example.com/tags/%E7%A1%AC%E4%BB%B6/"/>
     
     <category term="光猫" scheme="http://example.com/tags/%E5%85%89%E7%8C%AB/"/>
-    
-    <category term="骚操作" scheme="http://example.com/tags/%E9%AA%9A%E6%93%8D%E4%BD%9C/"/>
     
   </entry>
   
@@ -52,7 +48,7 @@
     <link href="http://example.com/post/%E6%B5%85%E8%B0%88V2ray%20&amp;%20Cloudfare%20Zero%20Trust.html"/>
     <id>http://example.com/post/%E6%B5%85%E8%B0%88V2ray%20&amp;%20Cloudfare%20Zero%20Trust.html</id>
     <published>2023-12-08T16:00:00.000Z</published>
-    <updated>2024-02-06T14:04:23.913Z</updated>
+    <updated>2024-02-07T11:26:24.304Z</updated>
     
     
       
@@ -79,7 +75,7 @@
     <link href="http://example.com/post/how-to-crack-JetBrainsTool.html"/>
     <id>http://example.com/post/how-to-crack-JetBrainsTool.html</id>
     <published>2023-02-18T05:17:51.000Z</published>
-    <updated>2024-02-06T14:04:39.464Z</updated>
+    <updated>2024-02-07T12:17:02.178Z</updated>
     
     
       
@@ -93,7 +89,7 @@
     
     
     
-    <category term="破解 JetBrains" scheme="http://example.com/tags/%E7%A0%B4%E8%A7%A3-JetBrains/"/>
+    <category term="JetBrains" scheme="http://example.com/tags/JetBrains/"/>
     
   </entry>
   
@@ -102,7 +98,7 @@
     <link href="http://example.com/post/How-to-access-restricted-websites-by-direct.html"/>
     <id>http://example.com/post/How-to-access-restricted-websites-by-direct.html</id>
     <published>2022-11-06T03:53:51.000Z</published>
-    <updated>2024-02-06T14:04:29.769Z</updated>
+    <updated>2024-02-07T12:17:07.291Z</updated>
     
     
       
@@ -125,7 +121,7 @@
     <link href="http://example.com/post/how-to-get-ewt-cookie.html"/>
     <id>http://example.com/post/how-to-get-ewt-cookie.html</id>
     <published>2022-08-07T13:52:51.000Z</published>
-    <updated>2024-02-06T14:04:47.251Z</updated>
+    <updated>2024-02-07T11:28:38.885Z</updated>
     
     
       
@@ -137,6 +133,10 @@
       
     
     
+    
+    <category term="教程" scheme="http://example.com/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="软件" scheme="http://example.com/categories/%E6%95%99%E7%A8%8B/%E8%BD%AF%E4%BB%B6/"/>
     
     
     <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/"/>
